@@ -1,0 +1,1 @@
+sailaksh_hw1_p4(@sin,3); % The function sailaksh_hw1_p4 is evaluated at 'sin' and scalar input 3.
